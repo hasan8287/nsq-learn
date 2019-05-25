@@ -3,3 +3,4 @@
   - chmod +x bin/run.sh
   - setup : ./bin/run.sh setup
   - publish : ./bin/run.sh publish
+  - consume : ./bin/run.sh consume
